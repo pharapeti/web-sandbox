@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # web-sandbox
 This repo is a sandbox for me to learn various aspects of web programming. Languages and frameworks such as HTML, CSS, JS, SQL, PHP (maybe), Ruby on Rails.
 =======
@@ -26,4 +25,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
->>>>>>> c7ec3001af875643f2093da857ec0a84efe5b446
